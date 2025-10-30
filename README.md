@@ -1,16 +1,12 @@
-# picture_frame
+# AWS Picture Frame
+A simple **Flutter web application** that displays images hosted on **AWS S3** in a rotating digital picture frame format.  
+It includes a custom pineapple-themed border and a **pause/resume** button to control the slideshow.
 
-A new Flutter project.
+## Features
+- Displays high-resolution `.jpg` images hosted on **AWS S3**
+- Automatically rotates through images every **10 seconds**
+- **Pause / Resume** slideshow anytime
+- Works on both **mobile and desktop** browsers
+- Built with Flutter Web (compatible with Android/iOS builds too)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
